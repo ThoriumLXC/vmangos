@@ -1,0 +1,2 @@
+# vmangos
+Stub
